@@ -3,9 +3,18 @@
     float: left;
     margin-left: 138px;
 }
+.header-wrapper  {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
 .navigation {
     float: left;
     margin-left: 138px;
+}
+body {
+    padding-top: 96px;
 }
 .nav-li {
     float: left;
